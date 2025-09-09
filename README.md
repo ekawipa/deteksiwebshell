@@ -44,7 +44,8 @@ Buka terminal Anda, navigasikan ke lokasi skrip, dan jalankan perintah berikut:
 
 Jadikan skrip dapat dieksekusi (opsional):
 
-```chmod +x webshell_detector.py
+```
+chmod +x webshell_detector.py
 ```
 Jalankan pemindaian pada direktori web root Anda:
 (Ganti /var/www/html dengan path direktori yang relevan)
