@@ -73,4 +73,4 @@ Saran dan kontribusi selalu diterima! Jika Anda memiliki ide untuk pola regex ba
 
 📄 Lisensi
 Proyek ini dilisensikan di bawah Lisensi MIT.
-author : Eka W. Prasetya github.com/ekawipa
+<br> author : Eka W. Prasetya github.com/ekawipa
